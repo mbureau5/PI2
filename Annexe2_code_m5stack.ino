@@ -63,7 +63,7 @@ int dutyCycle = 0; // Variable PWM image de la consigne de 0 à 255
 
 
 // LED initialisation :
-#define PIN_LED 6
+#define PIN_LED 1
 // Parameter 1 = number of pixels in strip
 // Parameter 2 = Arduino pin number (most are valid)
 // Parameter 3 = pixel type flags, add together as needed:
