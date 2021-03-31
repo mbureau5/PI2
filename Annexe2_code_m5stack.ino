@@ -299,7 +299,7 @@ void loop() {
     // Temperature in Celsius
     long temperature = t;
     long humidity = h;
-    long waterTemp = celsuis;
+    long waterTemp = celsius;
     long luminosity = lux;
      
     char tempString[8];
